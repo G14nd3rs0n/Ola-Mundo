@@ -3,5 +3,4 @@
 
  Repositório que estou criando enquanto faço um curso de Git e Github.
 
- Hoje tem Coritiba e Cianorte pelas quartas de final do campeonato paranaense.
- 
+Amanhã tem **Maringá x Coritiba** pela semifinal do *Paranaense.* 
